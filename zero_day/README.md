@@ -1,4 +1,5 @@
 #VAGRANT - or - How to code in your local computer
+
 ##Learning Objectives
 1. What is a virtual machine
 2. What is Vagrant
